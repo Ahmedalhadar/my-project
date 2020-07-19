@@ -1,0 +1,40 @@
+h1{
+   padding:50px;
+   text-align:center;
+   background-color:black;
+   color:red;
+}
+.dropdown-item{
+    text-align: center;
+    color: rgb(255, 217, 0);
+}
+.dropdown-item:hover{
+    color: rgb(30, 255, 0);
+    background: black;
+}
+.container{
+    display: inline;
+    margin: 0px 50px 0px 50px;
+    padding: 35px;
+}
+
+h2{
+    text-align:center;
+    padding: 150px 250px 0px 250px;
+    font-size: 400px;
+    color: red;
+    font-display:auto;
+}
+h3 {
+    text-align: center;
+    font-size: 200px;
+    color: black;
+}
+div{
+    margin: 10px;
+    background-color:antiquewhite;
+}
+#ahmed {
+    text-align: center;
+    margin: 0px 550px;
+}
